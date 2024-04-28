@@ -1,4 +1,4 @@
-package main.java.ru.nsu.ccfit.malinovskii.factory.suppliers;
+package ru.nsu.ccfit.malinovskii.factory.suppliers;
 
 import ru.nsu.ccfit.malinovskii.Object;
 
